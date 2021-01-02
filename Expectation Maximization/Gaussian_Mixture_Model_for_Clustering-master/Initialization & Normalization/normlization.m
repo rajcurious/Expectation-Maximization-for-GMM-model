@@ -1,6 +1,5 @@
 function data = normlization(data, choose)
 % Normlization methods
-% Written by Raj Patel. (18bce190@nirmauni.ac.in)
 if choose==0
     % no normlization
     data = data;
